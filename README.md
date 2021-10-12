@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi! I'm Roberto Dias :raising_hand_man:
+I'm from Brazil and I currentyly discovering I.T world and working hard to change my present career to be a Data Analyst professional.
+\
+\
+I started as teacher understanding and sharing knowledge about world data :world_map: and now I want to collect them!
 
-<!--
-**rddiasbk/rddiasbk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* :hammer_and_wrench: Learning Python and SQL.\
+* :mailbox_with_mail: Find me: rd_dias@yahoo.com.br\
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+INTJ- Architect
+SOFT SKILLS|HARD SKILLS
+---|---
+ Critical Thinking|I can make you understand any issue
+ Flexibility|Writing
+ Communication/Listening|Storytelling
+ Time Management|
+ Teamwork|
