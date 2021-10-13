@@ -6,18 +6,18 @@ I started as teacher understanding and sharing knowledge about world data :world
 
 * :hammer_and_wrench: Learning Python and SQL.
 * :mailbox_with_mail: Find me: rd_dias@yahoo.com.br | [Linkedin](https://www.linkedin.com/in/robertodias737/)
-* :brain:Know me: [Medium](https://medium.com/@roberto.dias.)
+* :brain: Know me: [Medium](https://medium.com/@roberto.dias.)
 
 ## About me:
 * Father :family_man_boy:
 * INTJ- [Architect](https://www.16personalities.com/intj-personality)
 * A life of sharing knowledge: geography :earth_americas:, martial arts :martial_arts_uniform: and agroforesting :seedling:.
-* I like nature and understand how the things and society works.
+* I like walking in nature, martial arts, motorcycles and understand how the things and society works.
 
 SOFT SKILLS|HARD SKILLS
 ---|---
  Critical Thinking|I can make you understand any issue
  Flexibility|Writing
- Communication/Listening|Storytelling
- Time Management|
- Teamwork|
+ Communication/Listening|Python
+ Time Management|Storytelling
+ Teamwork|SQL
