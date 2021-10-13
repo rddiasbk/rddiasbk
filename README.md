@@ -8,7 +8,11 @@ I started as teacher understanding and sharing knowledge about world data :world
 * :mailbox_with_mail: Find me: rd_dias@yahoo.com.br\
 
 ## About me:
-INTJ- Architect
+* Father :family_man_boy:
+* INTJ- [Architect](https://www.16personalities.com/intj-personality)
+* A life of sharing knowledge: geography :earth_americas:, martial arts :martial_arts_uniform: and agroforesting :seedling:.
+* I like nature and understand how the things and society works.
+
 SOFT SKILLS|HARD SKILLS
 ---|---
  Critical Thinking|I can make you understand any issue
