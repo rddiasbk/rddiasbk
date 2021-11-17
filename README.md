@@ -1,5 +1,5 @@
 # Hi! I'm Roberto Dias :raising_hand_man:
-I'm from Brazil and I currently discovering I.T world and working hard to change my present career to be a Data Analyst professional.
+I'm from Brazil and I currently discovering I.T world and working hard to change my present career to as teacher to Data Analyst carreer.
 \
 \
 I started as teacher understanding and sharing knowledge about world data :world_map: and now I want to collect them!
