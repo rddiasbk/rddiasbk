@@ -4,7 +4,7 @@ I'm from Brazil and I currently discovering I.T world and working hard to change
 \
 I started as teacher understanding and sharing knowledge about world data :world_map: and now I want to collect it!
 
-* :hammer_and_wrench: Learning Python and SQL.
+* :hammer_and_wrench: Learning Data Analysis.
 * :mailbox_with_mail: Find me: rd_dias@yahoo.com.br | [Linkedin](https://www.linkedin.com/in/robertodias737/)
 * :brain: Know me: [Medium](https://medium.com/@roberto.dias.)
 
